@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Not for commercial use) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="220mm" height="220mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 22000 22000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:141.11;stroke-miterlimit:22.9256}
+    .str0 {stroke:#373435;stroke-width:458.61;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil2 {fill:#FDD1A1}
+    .fil0 {fill:#00AFEF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="10766.69,962.78 13116.69,8617.56 20766.69,8602.11 14569.07,13317.55 16947.03,20962.78 10766.69,16222.33 4586.35,20962.78 6964.31,13317.55 766.69,8602.11 8416.69,8617.56 "/>
+  <line class="fil1 str1" x1="8416.69" y1="8617.56" x2="13116.69" y2= "8617.56" />
+  <line class="fil1 str1" x1="8416.69" y1="8617.56" x2="6964.31" y2= "13317.55" />
+  <line class="fil1 str1" x1="6964.31" y1="13317.55" x2="10766.69" y2= "16222.33" />
+  <line class="fil1 str1" x1="10766.69" y1="16222.33" x2="14569.07" y2= "13317.55" />
+  <line class="fil1 str1" x1="14569.07" y1="13317.55" x2="13116.69" y2= "8617.56" />
+  <polygon class="fil2" points="8416.69,8617.56 13116.69,8617.56 10766.69,962.78 "/>
+  <polygon class="fil2" points="13116.69,8617.56 14569.07,13317.55 20766.69,8602.11 "/>
+  <polygon class="fil2" points="6964.31,13317.55 8416.69,8617.56 766.69,8602.11 "/>
+  <polygon class="fil2" points="10766.69,16222.33 6964.31,13317.55 4586.35,20962.78 "/>
+  <polygon class="fil2" points="14569.07,13317.55 10766.69,16222.33 16947.03,20962.78 "/>
+ </g>
+</svg>
